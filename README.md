@@ -5,8 +5,8 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Love Video-Games.
 
-## <img width="45" height="45" alt="about" src="http://31.media.tumblr.com/763c3316020958083351d79146df4d0c/tumblr_mr3i30XBH61se2vfqo1_500.gif"> About Me
-<img align="right" width="300" src="https://pin.it/6uhiyOW"/>
+## <img width="45" height="45" alt="about" src="https://i.pinimg.com/originals/0d/a6/4d/0da64de3412bc0ed15d487acea39ad7b.gif"> About Me
+<img align="right" width="300" src="https://tenor.com/bm8Vt.gif"/>
 ```assembly
 .data:
   Name db "Taha Ed-Dafili"
