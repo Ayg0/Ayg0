@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Love Video-Games.
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/ff/16/aa/ff16aa818db705df3322a289e44cdaf2.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/b0/ef/d4/b0efd4008d7f61b3f1d6007fcf3d7fe5.gif"/>
 
 ```assembly
 .data:
