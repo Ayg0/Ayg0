@@ -12,7 +12,6 @@ section .data:
   Name db "Taha Ed-Dafili"
   Work db "student at 1337"
   Age  dd 18
-  pronouns db "He/Him"
   fun_fact db "Love video games"
 ```
 
