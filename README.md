@@ -32,5 +32,3 @@ section .data:
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayg0hiden&show_icons=true&theme=onedark&line_height=27" alt="Github stats"/>
 </a>
-
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ted-dafi)](https://github.com/mohouyizme/1337-readme)
