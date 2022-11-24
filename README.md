@@ -24,4 +24,4 @@ section .data:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## **My GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&layout=compact)](https://github.com/Ayg0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0)](https://github.com/Ayg0/github-readme-stats)
