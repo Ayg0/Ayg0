@@ -20,4 +20,3 @@ section .data:
 
 ## **My GitHub Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&theme=ayu-mirage)](https://github.com/Ayg0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&langs_count=8&theme=ayu-mirage)](https://github.com/Ayg0/github-readme-stats)
