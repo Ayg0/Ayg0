@@ -3,7 +3,7 @@
 section .data:
   Name: db  "Taha Ed-Dafili",  0
   Work: db  "student at 1337", 0
-  Age:  dd  19
+  Age:  dd  20
 ```
 
 ## **My GitHub/School Stats**
