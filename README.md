@@ -8,7 +8,7 @@ section .data:
 
 ## **My GitHub/School Stats**
 <a href="https://github.com/oakoudad/badge42"><img align='right' src="https://badge.mediaplus.ma/darkblue/ted-dafi" alt="ted-dafi's 42 stats" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&theme=ayu-mirage&hide=html,makefile,javascript,css)](https://github.com/Ayg0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&theme=ayu-mirage&hide=html,makefile,css)](https://github.com/Ayg0/github-readme-stats)
 <p align="center">
   <a href="https://github.com/Ayg0">
     <img src="https://komarev.com/ghpvc/?username=Ayg0&color=blue&style=flat)" />
