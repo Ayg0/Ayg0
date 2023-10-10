@@ -1,4 +1,4 @@
-<img src="9MOK.gif" align="right" height="110">
+<img src="parrot_fly_flipped.gif" align="left" height="110">
 
 
 ```assembly
