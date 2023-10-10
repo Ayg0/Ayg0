@@ -1,3 +1,5 @@
+<img src="9MOK.gif" align="right" height="110">
+
 
 ```assembly
 section .data:
