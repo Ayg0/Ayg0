@@ -8,6 +8,7 @@ section .data:
   Age:  dd  20
 ```
 
+
 ## **My GitHub/School Stats**
 <a href="https://github.com/oakoudad/badge42"><img align='right' src="https://badge.mediaplus.ma/darkblue/ted-dafi" alt="ted-dafi's 42 stats" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayg0&theme=ayu-mirage&hide=html,makefile,css&exclude_repo=Yona2.0,Nand2Tetris&langs_count=6)](https://github.com/Ayg0/github-readme-stats)
@@ -17,6 +18,7 @@ section .data:
   </a>
 </p>
 <details>
+    <summary>Love to See More stats ? expand Me </summary>
 <p align="center">
   <a href="https://github.com/Ayg0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayg0&theme=transparent" />
