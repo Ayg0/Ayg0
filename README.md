@@ -27,13 +27,13 @@ section .data:
     <summary>Love to See More stats ? expand Me </summary>
 <p align="center">
   <a href="https://github.com/Ayg0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayg0&show_icons=true&theme=transparent">
+  </a>
+  <a href="https://github.com/Ayg0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayg0&theme=transparent" />
   </a>
-  <a href="https://github.com/Ayg0">
+<!--   <a href="https://github.com/Ayg0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayg0&theme=transparent" />
-  </a>
-  <a href="https://github.com/Ayg0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayg0&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  </a> -->
 </p>
 </details>
